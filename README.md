@@ -3,6 +3,7 @@ demo启动方式：
 双击thw1_20230404.exe启动游戏。
 
 关于宣传片：
+宣传片链接https://www.bilibili.com/video/BV15u41147pF/
 是其中一个结局的剧情，在demo里只做了相关数值判定没有进入这段剧情。美术素材自己画的，音乐素材来自魔王魂https://maou.audio/bgm_piano40/
 
 关于大纲：
