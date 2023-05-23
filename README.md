@@ -1,6 +1,6 @@
 # thw1
 demo启动方式：
-双击thw1_20230404.exe启动游戏。
+thw1_20230404.exe为游戏本体，32位系统可以试试thw1_20230404-32.exe，目前只有windows版本，双击启动游戏。
 
 关于宣传片：
 宣传片链接https://www.bilibili.com/video/BV15u41147pF/
